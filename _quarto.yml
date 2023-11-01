@@ -6,8 +6,8 @@ project:
 
 website:
   title: "MUSA 550 Quarto Template"
-  site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
-  repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
+  site-url: "https://nickhand.github.io/quarto-website-test" 
+  repo-url: https://github.com/nickhand/quarto-website-test 
   repo-actions: [source]
 
   page-footer:
@@ -36,6 +36,8 @@ website:
       - href: index.qmd
         text: Welcome
       - about.qmd
+      - href: example.ipynb
+        text: Example Notebook
       - section: analysis/index.qmd
         contents:
           - analysis/1-python-code-blocks.qmd 

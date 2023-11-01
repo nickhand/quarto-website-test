@@ -1,1 +1,1 @@
-Sitemap: https://musa-550-fall-2023.github.io/quarto-website-template/sitemap.xml
+Sitemap: https://nickhand.github.io/quarto-website-test/sitemap.xml
